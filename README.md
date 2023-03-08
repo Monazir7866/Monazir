@@ -1,6 +1,7 @@
+ [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://Monazir7866.github.io)
 <h1 align="center">Hi 👋, I'm Md Monazir Hussain</h1>
 <h3 align="center">A passionate Backend developer from Patna (India)</h3>
-
+<img align="right alt"Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monazir7866&label=Profile%20views&color=0e75b6&style=flat" alt="monazir7866" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monazir7866" alt="monazir7866" /></a> </p>
